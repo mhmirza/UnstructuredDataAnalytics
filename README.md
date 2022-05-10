@@ -6,7 +6,9 @@ This portfolio captures the work I completed for a course, **Unstructured Data A
 
 # Key Learnings
 
-From the course, Decision Analytics for Business & Policy, I learnt how to design end-to-end decision analytics pipelines by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using [Gurobi](https://www.gurobi.com/) in Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
+From the course, Unstructured Data Analytics, I gained an extensive understanding of Natural Language Processing, Machine Learning and Neural Networks. This included but was not restricted to frequency, co-occurrence analysis using metrics such as Phi-squared; Topic modeling using Latent Dirichlet Allocation; dimensionality reduction techniques such as Principal Component Analysis, Isomap and t-Distributed Dtochastic Neighbor Embedding; Clustering methods such as K-Means, Gaussian Mixture Models (including hyperparameter optimization) and DP-means; classification models such as K-NN and Random Forests; image analysis with CNNs and time series analysis with RNNs. 
+
+design end-to-end decision analytics pipelines by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using [Gurobi](https://www.gurobi.com/) in Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
 
 # Portfolio
 
