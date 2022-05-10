@@ -28,7 +28,6 @@ III. [Spam Email Classification (K-NN & Random Forests)](https://github.com/mhmi
 
 Please click on the hyperlinks below to view the project details:
 
-* [Project Prompt](https://github.com/mhmirza/Optimization/blob/main/Final%20Project/Final%20Project%20Prompt.pdf)
-* [Project Report & Mathematical Formulation](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Mathematical%20Formulation%20%26%20Report)
-* [Python Code](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Code)
-* [Data Files](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Data)
+* [Project Proposal](https://github.com/mhmirza/UnstructuredDataAnalytics/blob/main/Final%20Project/Final%20Project%20Proposal_Opioid.pdf)
+* [Jupyter Notebook](https://github.com/mhmirza/UnstructuredDataAnalytics/blob/main/Final%20Project/Colab_Project_Notebook_Final.ipynb)
+* [Comments Data](https://github.com/mhmirza/UnstructuredDataAnalytics/blob/main/Final%20Project/Opioid%20Comment%20Data%20from%20API.csv)
