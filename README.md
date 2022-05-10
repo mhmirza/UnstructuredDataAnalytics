@@ -24,7 +24,7 @@ III. [Spam Email Classification (K-NN & Random Forests)](https://github.com/mhmi
 
 ## Final Project
 
-**Brief Description:** "Facilitating Community-Informed Opioid Prescription Guidelines." This project focuses on an in-depth analysis of public comments on the draft of CDC's Clinical Practice Guideline for Prescribing Opioids 2022. These comments will illuminate the stories, concerns, and experiences from the patient, provider, and community side to delineate the impact of the change in guidelines. Therefore, the project utilizes advanced NLP techniques to conduct a sentiment analysis and reveal the priorities and preferences of those impacted by the clinical guidelines.
+**Brief Description:** "Facilitating Community-Informed Opioid Prescription Guidelines." This project focuses on conducting an in-depth analysis of public comments on the draft of CDC's Clinical Practice Guideline for Prescribing Opioids 2022. These comments will illuminate the stories, concerns, and experiences from the patient, provider, and community side to delineate the impact of the change in guidelines. Therefore, the project utilizes advanced NLP techniques to conduct a sentiment analysis and reveal the priorities and preferences of those impacted by the clinical guidelines.
 
 Please click on the hyperlinks below to view the project details:
 
