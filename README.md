@@ -6,7 +6,7 @@ This portfolio captures the work I completed for a course, **Unstructured Data A
 
 # Key Learnings
 
-From the course, Unstructured Data Analytics, I gained an extensive understanding of Natural Language Processing, Machine Learning and Neural Networks. This included frequency and co-occurrence analysis using metrics such as Phi-squared; Topic modeling using Latent Dirichlet Allocation; Dimensionality Reduction techniques such as Principal Component Analysis, Isomap and t-Distributed Dtochastic Neighbor Embedding; Clustering methods such as K-Means, Gaussian Mixture Models (including hyperparameter optimization) and DP-means; classification models such as K-NN and Random Forests; Image analysis with CNNs and time series analysis with RNNs. 
+From the course, Unstructured Data Analytics, I gained an extensive understanding of Natural Language Processing, Machine Learning and Neural Networks. This key focus areas included frequency and co-occurrence analysis using metrics such as Phi-squared; Topic modeling using Latent Dirichlet Allocation; Dimensionality Reduction techniques such as Principal Component Analysis, Isomap and t-Distributed Dtochastic Neighbor Embedding; Clustering methods such as K-Means, Gaussian Mixture Models (including hyperparameter optimization) and DP-means; classification models such as K-NN and Random Forests; Image analysis with CNNs and time series analysis with RNNs. 
 
 # Portfolio
 
