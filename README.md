@@ -16,11 +16,11 @@ Different tools in Python e.g. NLTK, Skicit-learn, spaCy, PyTorch were used for 
 
 To view the Jupyter Notebook for each assignment and a subset of the data used, please click on the folder hyperlinks below.
 
-I. [Basic Text Analysis, Entity Recognition and Co-Occurrence Analysis](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%201) 
+I. [Basic Text Analysis, Entity Recognition and Co-Occurrence Analysis on 100 Books](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%201) 
 
-II. [Emergency Response using Integer Optimization](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%202)
+II. [Spam Identification (Clustering) & Identifying Latent Purposes in Mobile Apps (LDA)](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%202)
 
-III. [Traveling Salesman Problem using Integer Optimization](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%203)
+III. [Spam Email Classification (K-NN & Random Forests)](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%203)
 
 ## Final Project
 
