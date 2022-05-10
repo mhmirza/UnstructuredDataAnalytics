@@ -16,7 +16,7 @@ Different tools in Python e.g. NLTK, Skicit-learn, spaCy, PyTorch were used for 
 
 To view the Jupyter Notebook for each assignment and a subset of the data used, please click on the folder hyperlinks below.
 
-I. [Basic Text Analysis, Entity Recognition and Co-Occurrence Analysis on 100 Books](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%201) 
+I. [Text Analysis, Entity Recognition and Co-Occurrence Analysis (spaCy) on 100 Books](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%201) 
 
 II. [Spam Identification (Clustering) & Identifying Latent Purposes in Mobile Apps (LDA)](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%202)
 
