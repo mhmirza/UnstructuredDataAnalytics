@@ -14,17 +14,13 @@ Different tools in Python e.g. NLTK, Skicit-learn, spaCy, PyTorch were used for 
 
 ## Assignments
 
-To view the case prompt, associated data files, Python code and reported solutions, please click on the folder hyperlinks below.
+To view the Jupyter Notebook for each assignment and a subset of the data used, please click on the folder hyperlinks below.
 
-I. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20I) 
+I. [Basic Text Analysis, Entity Recognition and Co-Occurrence Analysis](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%201) 
 
-II. [Emergency Response using Integer Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
+II. [Emergency Response using Integer Optimization](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%202)
 
-III. [Traveling Salesman Problem using Integer Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
-
-IV. [World Health Organization's Nutrition Policy using Multi-Objective Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20IV)
-
-V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20V)
+III. [Traveling Salesman Problem using Integer Optimization](https://github.com/mhmirza/UnstructuredDataAnalytics/tree/main/Homework%203)
 
 ## Final Project
 
